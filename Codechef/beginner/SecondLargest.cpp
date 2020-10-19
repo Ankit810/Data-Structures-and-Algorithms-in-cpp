@@ -12,7 +12,7 @@ int main(){
             cin>>a[i];
         }
         sort(a, a+3);
-        cout<<a[1]<<endl;
+        cout<<a[1]<<"\n";
     }
     return 0;
 }
